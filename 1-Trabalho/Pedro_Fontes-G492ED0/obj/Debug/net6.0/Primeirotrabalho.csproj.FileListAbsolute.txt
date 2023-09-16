@@ -1,0 +1,15 @@
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\bin\Debug\net6.0\Primeirotrabalho.exe
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\bin\Debug\net6.0\Primeirotrabalho.deps.json
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\bin\Debug\net6.0\Primeirotrabalho.runtimeconfig.json
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\bin\Debug\net6.0\Primeirotrabalho.dll
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\bin\Debug\net6.0\Primeirotrabalho.pdb
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.csproj.AssemblyReference.cache
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.AssemblyInfoInputs.cache
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.AssemblyInfo.cs
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.csproj.CoreCompileInputs.cache
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.dll
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\refint\Primeirotrabalho.dll
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.pdb
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\Primeirotrabalho.genruntimeconfig.cache
+C:\Users\phfon\OneDrive\Área de Trabalho\DO_ZERO_AO_DEV\TRAB_PSOO\Primeirotrabalho\obj\Debug\net6.0\ref\Primeirotrabalho.dll
