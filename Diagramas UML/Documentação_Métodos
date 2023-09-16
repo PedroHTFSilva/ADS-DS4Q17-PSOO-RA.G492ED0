@@ -1,0 +1,15 @@
+Objetos:
+
+-> O objeto da Classe "Animal" representam um animal unico e específico com nome, espécie e númeoro de ID.
+-> O objeto da Classe "Cadastrar representa um cadastro.
+-> O objeto da Classe "Produto" representa um Produto unico e específico com nome, ID, tipo e preço.
+-> O objeto da Classe "Cliente" representa um Cliente único e específico com ID, CPF, nome e IDdoAnimal.
+
+  Métodos:
+
+->Cadastrar(): Realiza um cadastro, seja um Cliente, animal ou produto.
+->Editar(): Edita o cadastro já realizado.
+->Apagar(): Apaga um cadastro já realizado.
+->ComprarProd(): Realiza a compra de um produto.
+->ComprarServ(): Realiza a compra de um serviço.
+->Pagar(): Realiza o pagamento para completar a compra dos produtos ou serviços.
